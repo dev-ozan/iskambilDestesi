@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iskambilDestesi", "iskambilDestesi\iskambilDestesi.csproj", "{CC3F2F67-642E-492A-8781-5FD5C6773546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3F2F67-642E-492A-8781-5FD5C6773546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3F2F67-642E-492A-8781-5FD5C6773546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3F2F67-642E-492A-8781-5FD5C6773546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3F2F67-642E-492A-8781-5FD5C6773546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862564FF-E312-4C10-8F04-C5235A5ECE19}
+	EndGlobalSection
+EndGlobal
